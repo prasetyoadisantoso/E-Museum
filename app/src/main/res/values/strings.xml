@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Museum</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="Home">Beranda</string>
+    <string name="title_activity_import">Impor</string>
+    <string name="title_activity_gallery">Galeri</string>
+    <string name="title_activity_slideshow">Pameran</string>
+    <string name="title_activity_tools">Aktifitas</string>
+    <string name="android_studio">Pras</string>
+    <string name="android_studio_android_com">Studio</string>
+    <string name="navigation_drawer_open"></string>
+    <string name="navigation_drawer_close"></string>
+
+
+
+</resources>

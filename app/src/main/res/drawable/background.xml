@@ -3,12 +3,5 @@
 
     <item android:drawable="@color/colorAccent" />
 
-    <item>
-        <bitmap
-            android:src="@drawable/splash"
-            android:gravity="center"
-            />
-
-    </item>
 
 </layer-list>

@@ -8,11 +8,14 @@ import android.content.Intent;
 
 
 
+
+
 public class Splash extends AppCompatActivity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.app_bar_splash);
 
         new Handler().postDelayed(new Runnable() {
             @Override
@@ -24,6 +27,6 @@ public class Splash extends AppCompatActivity {
                 Splash.this.startActivity(intent);
                 Splash.this.finish();
             }
-        }, 5000);
+        }, 2000);
     }
 }
